@@ -1,7 +1,7 @@
 {
-      "name": "Sophia",
+      "name": "Alexy",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/55ee43a1fe97fefd29ed0.jpg",
+      "logo": "https://telegra.ph/file/1eb5b968668b7ae3b5af8.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Sophia"
       ],   
-   "repository": "https://github.com/dihanofficial/SophiaBot",
+   "repository": "https://github.com/Thilinaweerasekara2003/Alexy_Robot",
    "addons": [
       {
          "options": {
